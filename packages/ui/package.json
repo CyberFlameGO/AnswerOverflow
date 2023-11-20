@@ -42,7 +42,7 @@
 		"discord-markdown": "^2.5.1",
 		"highlight.js": "^11.8.0",
 		"next": "13.4.8",
-		"next-auth": "^4.22.1",
+		"next-auth": "^4.24.5",
 		"next-themes": "^0.2.1",
 		"posthog-js": "^1.71.0",
 		"react-grid-gallery": "^1.0.0",
